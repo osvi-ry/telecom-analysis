@@ -13,7 +13,7 @@ El dataset `users.csv` y `usage.csv` incluyen 4,000 registros de clientes con va
 
 Haz clic en el siguiente botón:
 
-[Open In Colab]()]
+[Open In Colab](https://colab.research.google.com/drive/1J6dMVcu-Sf4it1oDbtSxB_Szd8UxV3Ze?usp=sharing)]
 O:
 
 1. Abre el archivo `.ipynb` en GitHub
